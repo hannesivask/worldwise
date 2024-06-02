@@ -1,3 +1,7 @@
+.city::-webkit-scrollbar {
+  width: 0;
+}
+
 .city {
   padding: 2rem 3rem;
   max-height: 70%;
